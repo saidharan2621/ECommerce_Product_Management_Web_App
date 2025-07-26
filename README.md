@@ -79,6 +79,9 @@ backend/          # Spring Boot project
 
 ---
 
+Download project from frontend from here
+https://github.com/saidharan2621/ecom-frontend-5.git
+
 ### Frontend (React)
 
 1. Open a new terminal:
